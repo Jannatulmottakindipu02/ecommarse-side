@@ -1,0 +1,32 @@
+.purple-highlight{
+    color:rgb(137, 43, 226);
+}
+.orange-highlight{
+    color:magenta;
+}
+.green-highlight{
+    color:yellowgreen
+}
+.gray-highlight{
+    color:tomato;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer
+{
+    background-color:white;
+
+}
+.header-logo{
+    position: relative;
+    top: 30px;
+    left: 42px;
+}
+.wrap{
+    width: 90%;
+    margin: 0 auto;
+}
+.card-footer.penguin-card-footer {
+    border: none;
+}
